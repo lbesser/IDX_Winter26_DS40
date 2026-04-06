@@ -186,9 +186,10 @@ The model performs best on mid-to-high price homes. Low-priced properties have h
 
 ## Streamlit App
 
+https://idxwinter26ds40-krayd362q7hsm3maxeszyq.streamlit.app/ 
 `app.py` provides a simple UI where users can input property details and get a predicted close price.
 
-**Inputs:** Living Area, Bedrooms, Bathrooms, Lot Size, Year Built, Days on Market, List Price, Parking
+**Inputs:** Living Area, Bedrooms, Bathrooms, Lot Size
 
 **Output:** Predicted Close Price
 
